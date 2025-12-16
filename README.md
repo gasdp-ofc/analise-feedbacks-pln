@@ -101,7 +101,7 @@ Este projeto demonstra como a Inteligência Artificial pode ser aplicada para tr
 
 ---
 
-## ⭐ EXTRA (DIFERENCIAL NO GITHUB)
+## ⭐ EXTRA
 
 ### 🔹 Commits sugeridos
 - `feat: implementa preprocessamento de texto`
@@ -109,6 +109,5 @@ Este projeto demonstra como a Inteligência Artificial pode ser aplicada para tr
 - `feat: descoberta de topicos com LDA`
 - `docs: adiciona documentacao no README`
 
-### 🔹 Frase para bio do GitHub
-```text
+
 Estudante de Gestão de TI | PLN | Dados | IA aplicada a problemas reais
